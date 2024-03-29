@@ -1,6 +1,3 @@
-this chat bot is built by Karan
-
-
 **Event Details:**
 - **Name:** Abyudaya 8.0 2024
 - **Location:** MSRIT Campus, Bengalore, Link: https://maps.app.goo.gl/Qq7G1VhpJmwUWsvH7
@@ -82,3 +79,8 @@ this chat bot is built by Karan
 - Identifying and securing judges or panelists.
 - Conducting event rehearsals for smooth execution.
 - Collecting participant feedback for continuous improvement.
+
+about this bot,
+this bot is built using gemini ai of Google
+and it's built using Lang chain
+this is built by Karan jadhav final year student at MSRIT
