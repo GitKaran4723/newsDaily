@@ -8,38 +8,38 @@ Event Details:
 
 Follwing are the Events and Event Coordinators with phone numbers:
 
-* **IT Manager**
-    * Senior Coordinators: Srinath, Harshith
-    * Junior Coordinator: Blen Pinto(+91 95357 45513), Keerthan(+91 72042 15575)
-* **Treasure Hunt**
-    * Senior Coordinator: Rakshitha
-    * Junior Coordinators: Lavish Singh(+91 83607 25579), Nandhika Sri(+91 91081 51213)
-* **Photography**
-    * Senior Coordinator: Thushar, Sagar M S
-    * Junior Coordinators: Kalyan(+91 78999 49077), Aniruth(+91 9980708940)
-* **Gaming**
-    * Senior Coordinator: Akash Shekhar
-    * Junior Coordinators: Lakshman(+91 74060 95093), Samarth(+9180952 07935)
-* **Coding (UG)**
-    * Senior Coordinator: Komal
-    * Junior Coordinators: Rajbushan(+9190194 22068), Jeevitha(+916366 269 221)
-* **Coding (PG)**
-    * Senior Coordinator: Karan
-    * Junior Coordinators: Lakshman Swaminathan, Aakansha(+91 86180 72543)
-* **Quiz (PG)**
-    * Senior Coordinator: Saniya
-    * Junior Coordinators: Shrirama K(+9187626 77494), Navyasri(+91 99724 03749), Arshitha T(+9189709 25058)
-* **Quiz (UG)**
-    * Senior Coordinator: Akash Kotakar
-    * Junior Coordinators: Likitha(+91 88671 92093), Niharika(+91 97404 06886), Navya (+91 93808 45828)
-* **Web Designing (PG)**
-    * Senior Coordinators: Shreelakshmi, Rahul
-    * Junior Coordinators: Abhishek(+91 92412 05281), Vadhiraj K V(+9191132 39503), Kruthika(+917676685609), Akshatha(+918618072543)
-* **Web Designing (UG)**
-    * Senior Coordinators: Sanjay, Sushmitha
-    * Junior Coordinators: Anusha(+9172048 92636), Rohan T K(+9191486 35943), Thimme Gowda(+91 99721 77595)
-* **Beg Borrow Steal**
-    * Senior Coordinators: Vilas, Charan
-    * Junior Coordinators: Surya P(+91 84317 18619), Mukul Rawat(+918302137184)
+IT Manager
+  Senior Coordinators: Srinath, Harshith
+  Junior Coordinator: Blen Pinto(+91 95357 45513), Keerthan(+91 72042 15575)
+Treasure Hunt
+  Senior Coordinator: Rakshitha
+  Junior Coordinators: Lavish Singh(+91 83607 25579), Nandhika Sri(+91 91081 51213)
+Photography
+  Senior Coordinator: Thushar, Sagar M S
+  Junior Coordinators: Kalyan(+91 78999 49077), Aniruth(+91 9980708940)
+Gaming
+  Senior Coordinator: Akash Shekhar
+  Junior Coordinators: Lakshman(+91 74060 95093), Samarth(+9180952 07935)
+Coding (UG)
+  Senior Coordinator: Komal
+  Junior Coordinators: Rajbushan(+9190194 22068), Jeevitha(+916366 269 221)
+Coding (PG)
+  Senior Coordinator: Karan
+  Junior Coordinators: Lakshman Swaminathan, Aakansha(+91 86180 72543)
+Quiz (PG)
+  Senior Coordinator: Saniya
+  Junior Coordinators: Shrirama K(+9187626 77494), Navyasri(+91 99724 03749), Arshitha T(+9189709 25058)
+Quiz (UG)
+  Senior Coordinator: Akash Kotakar
+  Junior Coordinators: Likitha(+91 88671 92093), Niharika(+91 97404 06886), Navya (+91 93808 45828)
+Web Designing (PG)
+  Senior Coordinators: Shreelakshmi, Rahul
+  Junior Coordinators: Abhishek(+91 92412 05281), Vadhiraj K V(+9191132 39503), Kruthika(+917676685609), Akshatha(+918618072543)
+Web Designing (UG)
+  Senior Coordinators: Sanjay, Sushmitha
+  Junior Coordinators: Anusha(+9172048 92636), Rohan T K(+9191486 35943), Thimme Gowda(+91 99721 77595)
+Beg Borrow Steal
+  Senior Coordinators: Vilas, Charan
+  Junior Coordinators: Surya P(+91 84317 18619), Mukul Rawat(+918302137184)
 
   
