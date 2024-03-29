@@ -1,86 +1,45 @@
-**Event Details:**
-- **Name:** Abyudaya 8.0 2024
-- **Location:** MSRIT Campus, Bengalore, Link: https://maps.app.goo.gl/Qq7G1VhpJmwUWsvH7
-- **Date:** 18 - 19 April 2024
-- **Coordinator:** Dr. Geetha (Assistant Professor, MSRIT)
-- Student Coordinators (Final Year): Suraj(Phone: 88888887778), Pavan(7894561235)
-- Student Coordinators (First Year): Mahammad Kaif, Tarushi
+Event Details:
+  Name: Abyudaya 8.0 2024
+  Location: MSRIT Campus, Bengalore, Link: https://maps.app.goo.gl/Qq7G1VhpJmwUWsvH7
+  Date: 18 - 19 April 2024
+  Coordinator: Dr. Geetha (Assistant Professor, MSRIT)
+  Student Coordinators (Final Year): Suraj(88888887778), Pavan(7894561235)
+  Student Coordinators (First Year): Mahammad Kaif, Tarushi
 
-**Core Team Responsibilities:**
-- Managing human resources and delegating tasks daily.
-- Monitoring progress metrics and providing feedback to teams.
-- Conducting regular team meetings to discuss progress and challenges.
-- Resolving conflicts and supporting team members as needed.
-- Updating department stakeholders on progress and plans.
-- Developing contingency plans for potential setbacks.
-- Scheduling event timings and venues effectively.
+Follwing are the Events and Event Coordinators with phone numbers:
 
-**Documentation Team Responsibilities:**
-- Developing a result application for recording competition outcomes.
-- Creating result metrics for evaluating participant performance.
-- Calculating overall championship standings based on event results.
-- Documenting participation points and approvals from department heads.
-- Recording and organizing event-related bills and expenses.
-- Generating progress reports for stakeholders and organizing committee.
-- Drafting minutes of meetings and official request letters.
-- Providing content for event brochures, posters, and other materials.
+* **IT Manager**
+    * Senior Coordinators: Srinath, Harshith
+    * Junior Coordinator: Blen Pinto(+91 95357 45513), Keerthan(+91 72042 15575)
+* **Treasure Hunt**
+    * Senior Coordinator: Rakshitha
+    * Junior Coordinators: Lavish Singh(+91 83607 25579), Nandhika Sri(+91 91081 51213)
+* **Photography**
+    * Senior Coordinator: Thushar, Sagar M S
+    * Junior Coordinators: Kalyan(+91 78999 49077), Aniruth(+91 9980708940)
+* **Gaming**
+    * Senior Coordinator: Akash Shekhar
+    * Junior Coordinators: Lakshman(+91 74060 95093), Samarth(+9180952 07935)
+* **Coding (UG)**
+    * Senior Coordinator: Komal
+    * Junior Coordinators: Rajbushan(+9190194 22068), Jeevitha(+916366 269 221)
+* **Coding (PG)**
+    * Senior Coordinator: Karan
+    * Junior Coordinators: Lakshman Swaminathan, Aakansha(+91 86180 72543)
+* **Quiz (PG)**
+    * Senior Coordinator: Saniya
+    * Junior Coordinators: Shrirama K(+9187626 77494), Navyasri(+91 99724 03749), Arshitha T(+9189709 25058)
+* **Quiz (UG)**
+    * Senior Coordinator: Akash Kotakar
+    * Junior Coordinators: Likitha(+91 88671 92093), Niharika(+91 97404 06886), Navya (+91 93808 45828)
+* **Web Designing (PG)**
+    * Senior Coordinators: Shreelakshmi, Rahul
+    * Junior Coordinators: Abhishek(+91 92412 05281), Vadhiraj K V(+9191132 39503), Kruthika(+917676685609), Akshatha(+918618072543)
+* **Web Designing (UG)**
+    * Senior Coordinators: Sanjay, Sushmitha
+    * Junior Coordinators: Anusha(+9172048 92636), Rohan T K(+9191486 35943), Thimme Gowda(+91 99721 77595)
+* **Beg Borrow Steal**
+    * Senior Coordinators: Vilas, Charan
+    * Junior Coordinators: Surya P(+91 84317 18619), Mukul Rawat(+918302137184)
 
-**Design Team Responsibilities:**
-- Designing the website layout and user interface.
-- Creating posters and brochures for event promotion.
-- Designing IoT devices aesthetics for visual appeal and usability.
-- Developing visual assets for social media and online platforms.
-- Designing merchandise items such as t-shirts and wristbands with appealing graphics.
-- Designing a unique trophy for the event.
-
-**Finance Team Responsibilities:**
-- Creating and managing the event budget, including allocating funds to various departments and activities.
-- Securing sponsorship deals to increase funding opportunities.
-- Tracking expenses and revenue streams throughout the event planning and execution phases.
-- Providing financial reports and updates to stakeholders.
-- Managing cash flow and overseeing transactions.
-- Approving bills and expenses accurately.
-
-**Development Team Responsibilities:**
-- Developing the event website with secure payment gateways and attendee registration features.
-- Building a coding platform for competition purposes.
-- Creating a quiz platform for engaging participants.
-- Developing a results app for displaying competition outcomes.
-- Designing an internal fest progress monitoring app for tracking event progress.
-- Offering technical support and troubleshooting assistance during the event.
-- Implementing analytics systems to gather insights into user behavior and event performance.
-- Designing and developing an IoT vending machine.
-
-**Procurement Team Responsibilities:**
-- Ordering and purchasing trophies for award ceremonies.
-- Procuring t-shirts and hoodies for event merchandise.
-- Sourcing equipment and materials needed for events, including projectors and sound systems.
-- Negotiating contracts with vendors for catering services and venue booking.
-- Coordinating transportation and accommodation for out-of-town participants.
-- Procuring mementos and refreshments for judges and volunteers.
-- Arranging ID cards, decoration materials, and printed materials for the event.
-- Ensuring internet facilities are available for event operations.
-
-**Sponsor Responsibilities:**
-- Drafting emails and proposals to potential sponsors.
-- Visiting venues to secure sponsorships.
-- Creating sponsorship packages and outlining benefits for sponsors.
-- Providing sponsors with promotional materials and ensuring branding visibility.
-- Following up with sponsors post-event for feedback and future collaborations.
-
-**Event Coordinators Responsibilities:**
-- Listing and brainstorming event ideas for selection.
-- Collaborating with departments to finalize event choices.
-- Coordinating with procurement team for event supplies and setup.
-- Selecting and training event coordinators for smooth execution.
-- Creating event flowcharts and scheduling activities.
-- Booking venues and setting event timings.
-- Establishing event rules and guidelines.
-- Identifying and securing judges or panelists.
-- Conducting event rehearsals for smooth execution.
-- Collecting participant feedback for continuous improvement.
-
-about this bot,
-this bot is built using gemini ai of Google
-and it's built using Lang chain
-this is built by Karan jadhav final year student at MSRIT
+  
