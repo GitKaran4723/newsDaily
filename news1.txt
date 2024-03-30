@@ -12,7 +12,7 @@
       {"Tier 3": "15k or Above", "Benefits": "Promotion on social Media, Logo On Website, Vendor Space allotment, Logo on Banner"}
     ],
     "event_location": "MSRIT campus, Bengaluru, Karnataka",
-    "location_link" : ""
+    "location_link" : "https://maps.app.goo.gl/Qq7G1VhpJmwUWsvH7"
     "event_description": "Sponsoring an IT event can be a smart investment for your business. By Sponsoring Abhyuday you are opening doors to a galaxy of enthusiasts coming from different parts of the city and state. So if you are looking for ways to reach a highly targeted audience and gain a competitive edge in the IT industry, sponsoring an IT event could be a great strategy to consider. Your support will benefit your own organization in several ways.",
     "about_institute": {
       "name": "M. S. Ramaiah Institute of Technology",
