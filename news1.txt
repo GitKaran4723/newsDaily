@@ -35,10 +35,6 @@
       "autonomous_status": true,
       "recognition": ["ARIIA"]
     },
-    "contacts": [
-      {"name": "Simran F", "phone": "9110877905"},
-      {"name": "Htik H", "phone": "7975244290"}
-    ]
   },
   "general_guidelines": [
     "All participants must bring their valid College ID Cards.",
