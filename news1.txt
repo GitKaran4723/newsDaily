@@ -1,1 +1,110 @@
-
+{
+  "event_details": {
+    "name": "Abhyuday 7.0",
+    "date": "30th - 31st March, 2023",
+    "venue": "MSRIT campus, Bengaluru, Karnataka",
+    "website": "https://abhyuday2k23.tech/",
+    "contact_details": {
+      "organizers": [
+        {
+          "name": "Simran F",
+          "phone": "9110877905"
+        },
+        {
+          "name": "Htik H",
+          "phone": "7975244290"
+        }
+      ],
+      "student_coordinators": [
+        {
+          "name": "Suraj C Gowda",
+          "phone": "8217688007"
+        },
+        {
+          "name": "Shreelakshmi",
+          "phone": "9964300914"
+        }
+      ],
+      "faculty_coordinators": [
+        {
+          "name": "Dr. D. Evangelin Geetha",
+          "phone": "9620293370"
+        },
+        {
+          "name": "Dr. S. Ajitha",
+          "phone": "7760002530"
+        },
+        {
+          "name": "Sahana S",
+          "phone": "9008758983"
+        },
+        {
+          "name": "Anup Kumar M",
+          "phone": "7760615213"
+        }
+      ]
+    }
+  },
+  "sponsorship_details": {
+    "tiers": [
+      {
+        "name": "Tier 1",
+        "amount": "5k"
+      },
+      {
+        "name": "Tier 2",
+        "amount": "10k"
+      },
+      {
+        "name": "Tier 3",
+        "amount": "15k or Above"
+      }
+    ],
+    "benefits": [
+      "Inaugural Ceremony Mentions",
+      "Promotion on social Media",
+      "Logo On Website",
+      "Vendor Space allotment",
+      "Logo on Banner"
+    ],
+    "reasons_to_sponsor": [
+      "Significant exposure to a highly relevant audience",
+      "Increase brand's visibility and create awareness among the target audience",
+      "Increase network and interact with top talents",
+      "Potential increase in sales for food-based brands"
+    ]
+  },
+  "institution_details": {
+    "name": "M S Ramaiah Institute of Technology (MSRIT)",
+    "founded": "1962",
+    "accreditations": [
+      "AICTE",
+      "National Board of Accreditation",
+      "NAAC (A+ grade)",
+      "Autonomous Status by UGC & VTU"
+    ],
+    "rankings": {
+      "NIRF 2022": {
+        "engineering institutions": "67th",
+        "architecture institutions": "17th"
+      },
+      "Scimago Institutions Rankings 2022": {
+        "India rank": "107",
+        "world rank": "600"
+      }
+    },
+    "faculty": {
+      "total": "380",
+      "doctorates": "60%"
+    },
+    "features": [
+      "State of the art laboratories",
+      "Individual computing facility for all faculty members",
+      "Active research departments with sponsored funded projects",
+      "Established centers of excellence"
+    ],
+    "recognition": [
+      "Recognized by Atal Ranking of Institutions on Innovation Achievements (ARIIA)"
+    ]
+  }
+}
