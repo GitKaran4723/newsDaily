@@ -1,6 +1,6 @@
 {
   "abhyuday_event": {
-    "date": "18th - 19th April, 2024",
+    "date": "18th and 19th April, 2024",
     "department": "Department of MCA",
     "event_name": "abhyuday2k24",
     "website": "https://abhyuday2k24.tech/",
