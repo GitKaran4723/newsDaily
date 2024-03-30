@@ -51,7 +51,7 @@
     "Organizers can reschedule or cancel events if necessary.",
     "Events need a minimum of 5 teams."
   ],
-  "event_heads": [
+  "events": [
     {
       "event_name": "IT Manager Event",
       "description": "Individual event, no participation in other events.",
