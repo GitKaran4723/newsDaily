@@ -178,7 +178,7 @@
   ],
   "student_coordinators": [
     {"name": "Suraj", "phone": "8217688007"},
-    {"name": "Shreelakshmi", "phone": "9964300914"}
+    {"name": "Pavan", "phone": "9964300914"}
   ],
   "faculty_coordinators": [
     {"name": "Dr. D. Evangelin Geetha", "phone": "9620293370"},
