@@ -123,7 +123,9 @@
     {
       "event_name": "Quiz (PG)",
       "description": "No malpractice allowed.",
-      "senior_coordinator": "Saniya",
+      "senior_coordinator": [
+        {"name": "Saniya", "phone": "+91 84318 01007"}
+    ]
       "junior_coordinators": [
         {"name": "Shrirama K", "phone": "+9187626 77494"},
         {"name": "Navyasri", "phone": "+91 99724 03749"},
