@@ -177,7 +177,7 @@
     }
   ],
   "student_coordinators": [
-    {"name": "Suraj C Gowda", "phone": "8217688007"},
+    {"name": "Suraj", "phone": "8217688007"},
     {"name": "Shreelakshmi", "phone": "9964300914"}
   ],
   "faculty_coordinators": [
